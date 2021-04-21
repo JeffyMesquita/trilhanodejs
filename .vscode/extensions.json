@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "helgardrichard.helium-icon-theme",
+    "pkief.material-icon-theme",
+    "ms-dotnettools.csharp",
+    "coenraads.bracket-pair-colorizer",
+    "thekalinga.bootstrap4-vscode",
+    "akamud.vscode-theme-onedark",
+    "mgmcdermott.vscode-language-babel",
+    "jorgeserrano.vscode-csharp-snippets",
+    "streetsidesoftware.code-spell-checker",
+    "naumovs.color-highlight",
+    "bceskavich.theme-dracula-at-night",
+    "florianduros.theme-dracula-italics-turbo",
+    "vscode-icons-team.vscode-icons"
+  ]
+}
